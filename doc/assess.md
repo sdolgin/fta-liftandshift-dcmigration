@@ -10,7 +10,7 @@ The following content can be used as a checklist to incorporate within your migr
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;1.1\.  Identify VMs marked as "ready" for migration based on assessment. 
 
->**Note**: Although the server is marked as "Ready" this means that Azure Infraestructure will support the necessary configuration, however the replication appliance may not support the replication of the server (E.G. SQL FCI cluster or a WSFC which needs shared disks).
+>**Note**: Although the server is marked as "Ready" this means that Azure Infrastructure will support the necessary configuration, however the replication appliance may not support the replication of the server (E.G. SQL FCI cluster or a WSFC which needs shared disks).
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;1.2\. Identify remediation plan for "conditionally ready" VMs based on assessment.
 
@@ -20,7 +20,7 @@ The following content can be used as a checklist to incorporate within your migr
 
 ## **2 Assessment questionnaire** 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;2.1\.  Develope a questionnaire with the following points to cover:
+### &nbsp;&nbsp;&nbsp;&nbsp;2.1\.  Develop a questionnaire with the following points to cover:
 - &nbsp;&nbsp;&nbsp;&nbsp;Business criticality (environment)
 - &nbsp;&nbsp;&nbsp;&nbsp;Firewall Rules (Host and Network): Ports and Protocols 
 - &nbsp;&nbsp;&nbsp;&nbsp;Backup mechanism 
@@ -31,13 +31,13 @@ The following content can be used as a checklist to incorporate within your migr
 
 ## **3 Identify owner of VMs for questionnaire** 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;3.1\.  Have workload owners been interviewed? 
+### &nbsp;&nbsp;&nbsp;&nbsp;3.1\.  Have VM owners been identified & interviewed? 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;3.2\. Is it clear who will be interviewing app owners?
+### &nbsp;&nbsp;&nbsp;&nbsp;3.2\. Is it clear who will be interviewing VM owners?
 
 ## **4 Identify owner of applications for questionnaire** 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;4.1\.  Have workload owners been interviewed? 
+### &nbsp;&nbsp;&nbsp;&nbsp;4.1\.  Have app owners been identified & interviewed? 
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;4.2\. Is it clear who will be interviewing app owners?
 
@@ -89,7 +89,7 @@ Grouping of migration waves based on questionnaires and dependency analysis tool
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Least SLA and greater RTO/RPO.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Backout Maintenace Periods are not conflicting with target test migration/migration date.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Blackout Maintenace Periods are not conflicting with target test migration/migration date.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Lowest Data Classification.
 
