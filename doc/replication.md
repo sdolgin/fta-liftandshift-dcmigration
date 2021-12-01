@@ -8,7 +8,7 @@ The following content can be used as a checklist to incorporate within your migr
 
 ## **1 Capacity Planning for cores quotas** 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Ensure subscription quotas has been increased for target VM SKU sizes and Azure resources needed to be created for the specific region.
+### &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Ensure subscription quotas have been increased for target VM SKU sizes and Azure resources needed to be created for the specific region.
 
 ## **2 Replication Tools Planning and Implementation** 
 ### &nbsp;&nbsp;&nbsp;&nbsp;2.1\.  Plan for replication agents/appliances that will be needed to replicate the migration waves. 
