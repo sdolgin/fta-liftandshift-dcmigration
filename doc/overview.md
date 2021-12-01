@@ -15,7 +15,7 @@ performed based on this design.
 >**Note**: The Assess & Select Workload milestone and the Design and Build the Landing Zone milestone can optionally be ran in parallel. 
 
 ## [**Replication of Migration Waves Milestone**](./replication.md) 
-During this phase, a subnet of migration waves identified will be enabled for replication using a phased approach to adapt to current available bandwidth and ensure healthy replication. 
+During this phase, a subset of migration waves identified will be enabled for replication using a phased approach to adapt to current available bandwidth and ensure healthy replication. 
 
 ## [**End to End Test Migration Wave Milestone**](./testing.md) 
 During this phase, typically missed but important, each migration wave identified during the Assess & Select Workload milestone is tested in Azure prior to the final cutover. Various test cases will be discussed during the presentation.
