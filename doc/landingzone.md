@@ -16,7 +16,7 @@ The Landing Zone architecture and implementation will be defined by your specifi
 
 ## **2 Design Governance** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.1\. Use of Management Groups, number and purpose of Subscriptions.
+### &nbsp;&nbsp;&nbsp;&nbsp;2.1\. Use of Management Groups, number and purpose of Subscriptions.
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;2.2\. Resource Groups.
 
