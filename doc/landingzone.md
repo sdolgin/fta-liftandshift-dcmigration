@@ -63,7 +63,7 @@ The Landing Zone architecture and implementation will be defined by your specifi
 
 ## **7 Design DMZ(s)** 
 
-### &nbsp;&nbsp;&nbsp;&nbsp;7.1\. Need for public (Internet facing) and/or private (internal networks such as on-premises) separate DMZ infraestructure?
+### &nbsp;&nbsp;&nbsp;&nbsp;7.1\. Need for public (Internet facing) and/or private (internal networks such as on-premises) separate DMZ infrastructure?
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;7.2\. What services to use?
 
