@@ -10,6 +10,9 @@ The following content can be used as a checklist to incorporate within your migr
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Ensure subscription quotas have been increased for target VM SKU sizes and Azure resources needed to be created for the specific region.
 
+- &nbsp;&nbsp;&nbsp;&nbsp;[Increase VM-family vCPU quotas](https://docs.microsoft.com/en-us/azure/azure-portal/supportability/per-vm-quota-requests)
+
+- &nbsp;&nbsp;&nbsp;&nbsp;[Check vCPU quotas using Azure PowerShell](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quotas)
 ## **2 Replication Tools Planning and Implementation** 
 ### &nbsp;&nbsp;&nbsp;&nbsp;2.1\.  Plan for replication agents/appliances that will be needed to replicate the migration waves. 
 
